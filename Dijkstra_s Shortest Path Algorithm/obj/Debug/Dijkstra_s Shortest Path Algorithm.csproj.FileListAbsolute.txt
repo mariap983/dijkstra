@@ -1,0 +1,10 @@
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z-MyProject\Dijkstra's Shortest Path Algorithm\bin\Debug\Dijkstra's Shortest Path Algorithm.exe.config
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z-MyProject\Dijkstra's Shortest Path Algorithm\bin\Debug\Dijkstra's Shortest Path Algorithm.exe
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z-MyProject\Dijkstra's Shortest Path Algorithm\bin\Debug\Dijkstra's Shortest Path Algorithm.pdb
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z-MyProject\Dijkstra's Shortest Path Algorithm\obj\Debug\Dijkstra's Shortest Path Algorithm.csprojAssemblyReference.cache
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z-MyProject\Dijkstra's Shortest Path Algorithm\obj\Debug\Deikstra.Form1.resources
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z-MyProject\Dijkstra's Shortest Path Algorithm\obj\Debug\Dijkstra_s_Shortest_Path_Algorithm.Properties.Resources.resources
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z-MyProject\Dijkstra's Shortest Path Algorithm\obj\Debug\Dijkstra's Shortest Path Algorithm.csproj.GenerateResource.cache
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z-MyProject\Dijkstra's Shortest Path Algorithm\obj\Debug\Dijkstra's Shortest Path Algorithm.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z-MyProject\Dijkstra's Shortest Path Algorithm\obj\Debug\Dijkstra's Shortest Path Algorithm.exe
+D:\UNIVERSITY\4 семестър\СДА\SDA-PROJECT\SDA-46043z-MyProject\Dijkstra's Shortest Path Algorithm\obj\Debug\Dijkstra's Shortest Path Algorithm.pdb
